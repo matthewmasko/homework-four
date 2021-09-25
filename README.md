@@ -1,6 +1,6 @@
 # homework-four
 
-This is the Homework 3 assigment for the N215 Multi-Device development certificate.
+This is the Homework 4 assigment for the N215 Multi-Device development certificate.
 
 ## URL Link
 
